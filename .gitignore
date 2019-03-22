@@ -1,0 +1,5 @@
+api_keys.py
+*.docx
+*.csv
+*.tmp
+.ipynb_checkpoints*
