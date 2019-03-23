@@ -3,3 +3,5 @@ api_keys.py
 *.csv
 *.tmp
 .ipynb_checkpoints*
+Wine.ipynb
+*.pyc
