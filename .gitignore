@@ -1,4 +1,4 @@
-api_keys.py
+*.py
 *.docx
 *.csv
 *.tmp
