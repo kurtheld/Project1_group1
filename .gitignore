@@ -1,5 +1,6 @@
 *.py
 *.docx
+*.csv
 *.tmp
 .ipynb_checkpoints*
 Wine.ipynb
