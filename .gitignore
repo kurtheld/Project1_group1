@@ -1,6 +1,0 @@
-*.py
-*.docx
-*.tmp
-.ipynb_checkpoints*
-Wine.ipynb
-*.pyc
